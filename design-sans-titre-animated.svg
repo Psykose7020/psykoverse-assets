@@ -90,8 +90,6 @@
     </filter>
   </defs>
 
-  <rect width="512" height="512" fill="#ffffff"/>
-
   <g id="hexagon" fill="none" stroke-linejoin="round" filter="url(#softShadow)">
     <path
       d="M256 22 451 137v238L256 490 61 375V137L256 22Z"
